@@ -12,7 +12,7 @@ int main()
 	cout << "Qual seu salário mensal? ";
 	cin >> sal;
 	
-	cout << "Qual foi o reajuste? ";
+	cout << "Qual foi o percentual de reajuste? ";
 	cin >> reajuste;
 	
 	percentualReajuste = reajuste / 100;
