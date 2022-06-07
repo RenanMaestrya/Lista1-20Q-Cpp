@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-	float ano, mes, dia, anoEmDia, mesEmDia, idadeEmDias;
+	int ano, mes, dia, anoEmDia, mesEmDia, idadeEmDias;
 	cout << "Quantos anos você tem? ";
 	cin >> ano;
 	
